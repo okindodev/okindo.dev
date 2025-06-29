@@ -73,9 +73,9 @@
 
 ## 🤝 Let’s Connect
 
-📫 Email: **yourname@example.com**  
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-🌐 Portfolio (soon): [yourdomain.com](#)
+📫 Email: **okindo.dev@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/okindobrian/  
+🌐 Portfolio (soon): (#)
 
 ---
 
